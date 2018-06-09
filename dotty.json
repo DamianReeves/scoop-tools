@@ -6,6 +6,7 @@
     "url": "https://github.com/lampepfl/dotty/releases/download/0.6.0/dotty-0.6.0.zip",
     "extract_dir": "dotty-0.6.0",
     "env_add_path": "bin",
+    "hash": "b58d4f5521443833a0781c03fe4b3c42175800f220521b57fa9d49a6d9718e2f",
     "checkver": {
         "github": "https://github.com/lampepfl/dotty"
     },
